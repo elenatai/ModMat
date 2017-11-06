@@ -4,7 +4,7 @@ Las mareas son olas con período muy largo que se mueven a través de los océan
 
 Así, cada porción de fluido del océano está sujeta a fuerzas que nunca están en equilibrio. La fuerza resultante, la suma vectorial de todas ellas, es la que genera la marea: la "fuerza generadora (o generatriz) de la marea".
 
-## Teoría estacionaria
+### Teoría estacionaria
 
 Podemos imaginar que si la tierra no rotara sobre su propio eje se presentarían dos abultamientos en el nivel del mar, uno en el eje que une al tierra y la luna (o el sol) y el otro en el lado contrario. Como la tierra gira sobre su propio eje estos abultamientos se van moviendo conforme la tierra rota pero la velocidad con que viaja una ola de marea, que está determinada por la raíz cuadrada del producto de g*h, donde g es la gravedad y H la profundidad, provoca que en algunos sitios la marea tenga mayor amplitud y en otros menor.
 
@@ -14,7 +14,9 @@ Las mareas se originan en los océanos y progresan hacia las costas donde se man
 
 (REPASO DE LO QUE ES LA LONGITUD DE ONDA, LA AMPLITUD, LA FRECUENCIA DE UNA ONDA EN GENERAL. DE LA FORMA F(X)=A COS(KX-WT). DIGAMOS LAMDA, H, A.)
 
-Cuando la parte más alta de la ola (cresta) alcanza un lugar en específico, ocurre **marea alta** (o _pleamar_); **la marea baja** (o _bajamar_) corresponde a la parte más baja de la ola (valle). La diferencia de altura entre la _pleamar_ y _bajamar_ se denomina **rango de marea**. El rango de marea es una característica de cada lugar y está determinado pora la forma de la línea de costa, la batimetría regional Así por ejemplo, el mayor rango de marea en México se observa en el extremo norte del Golfo de California debido a que al avanzar la marea en el Golfo de California va encontrando aguas más someras y un ancho menor del Golfo; y el menor rango de marea se presenta en Cozumel, donde se registra la marea del orden de centímetros.
+Cuando la parte más alta de la ola (cresta) alcanza un lugar en específico, ocurre **marea alta** (o _pleamar_); **la marea baja** (o _bajamar_) corresponde a la parte más baja de la ola (valle). La diferencia de altura entre la _pleamar_ y _bajamar_ se denomina **rango de marea**. 
+
+El rango de marea es una característica de cada lugar y está determinado por la forma de la línea de costa, la batimetría regional. Así por ejemplo, el mayor rango de marea en México se observa en el extremo norte del Golfo de California debido a que al avanzar la marea en el Golfo de California va encontrando aguas más someras y un ancho menor del Golfo; y el menor rango de marea se presenta en Cozumel, donde se registra la marea del orden de centímetros.
 
 ![alt text](http://www.mareografico.unam.mx/portal/img/mapaRangoMarea1.png)
 
@@ -25,7 +27,7 @@ Cada dos semanas, aproximadamente, el Sol, la Tierra y la Luna están alineados,
 ![alt text](http://www.mareografico.unam.mx/portal/img/mareasvivas.png "Mareas vivas")     ![alt text](http://www.mareografico.unam.mx/portal/img/mareasmuertas.png "Mareas Muertas")
 
 
-Tipos de marea
+### Tipos de marea
 
 Cuando se habla de tipos de marea se refiere uno a si por lo general se observan en un lugar dos máximos y dos mínimos por día o solamente uno. Esto depende de si predominan las componentes diurna o las semidiurnas en la marea. Se acostumbra determinarlo con el cociente
 
@@ -70,7 +72,7 @@ https://oceanservice.noaa.gov/education/kits/tides/tides01_intro.html
 https://en.wikipedia.org/wiki/Theory_of_tides
 
 
-## Cálculo del nivel del mar
+# Cálculo del nivel del mar
 
 La variación del nivel del mar en un lugar en específico se calcula con una suma de _varias componentes_, y se puede representar por la expresión:
 ```mathjax
