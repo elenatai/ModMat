@@ -26,8 +26,9 @@ La variación del nivel del mar en un lugar en específico se calcula con una su
 ```mathjax
 $ \sum = A_0 + A_1sin(\omega t)+A_2cos(\omega t) $```
 
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
 
-\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
+_\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
 
 
 Las principales componentes de marea son:
