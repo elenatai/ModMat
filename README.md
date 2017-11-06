@@ -28,7 +28,7 @@ $ \sum = A_0 + A_1sin(\omega t)+A_2cos(\omega t) $```
 
 ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
 
-_\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
+src="images/x_i-1-x_i-fracfx_ifx_i-e7e51496fc.png"
 
 
 Las principales componentes de marea son:
