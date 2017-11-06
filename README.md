@@ -27,6 +27,9 @@ La variación del nivel del mar en un lugar en específico se calcula con una su
 $ \sum = A_0 + A_1sin(\omega t)+A_2cos(\omega t) $```
 
 
+\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
+
+
 Las principales componentes de marea son:
 #### Semidiurnas
 
