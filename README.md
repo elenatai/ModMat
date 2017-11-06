@@ -60,9 +60,13 @@ Ejemplo de un espectro de Fourier en donde se observa que la frecuencia M2 es la
 
 En la gráfica se observan dos períodos de mareas vivas y dos de mareas muertas para los últimos 30 días en Acapulco.
 
+
 ## **Referencias**
+
 http://www.mareografico.unam.mx/
+
 https://oceanservice.noaa.gov/education/kits/tides/tides01_intro.html
+
 https://en.wikipedia.org/wiki/Theory_of_tides
 
 
