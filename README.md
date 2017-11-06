@@ -22,6 +22,9 @@ https://oceanservice.noaa.gov/education/kits/tides/tides01_intro.html
 
 ## Cálculo del nivel del mar
 
+
+src="images/x_i-1-x_i-fracfx_ifx_i-e7e51496fc.png"
+
 La variación del nivel del mar en un lugar en específico se calcula con una suma de _varias componentes_, y se puede representar por la expresión:
 ```mathjax
 $ \sum = A_0 + A_1sin(\omega t)+A_2cos(\omega t) $```
