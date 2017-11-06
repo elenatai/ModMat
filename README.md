@@ -35,7 +35,7 @@ Si el cociente es menor que 1.5 se la marea es mixta, predominantemente diurna, 
 
 ![alt text](http://www.mareografico.unam.mx/portal/img/mapaTipoMarea1.png)
 
-![alt text](https://en.wikipedia.org/wiki/File:Tides_Fourier_Transform.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Tides_Fourier_Transform.png/1024px-Tides_Fourier_Transform.png)
 
 Ejemplo de un espectro de Fourier en donde se observa que la frecuencia M2 es la que tiene mayor energía (en algún sitio determinado). Le siguen otras componentes como la N2, O1, K1, S2. Nótese que las frecuencias está cerca de 1c/día, 2c/día, 3 c/dia y 4 c/día, es decir 24, 12 8 y 6 hrs. No todas las frecuencias están en estos grupos, pero están las más importantes. 
 
