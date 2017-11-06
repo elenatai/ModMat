@@ -34,9 +34,9 @@ Para determinar el tipo de marea, se acostumbra determinarlo con el cociente:
 TM=(O1+K1)/(M2+S2)
 
 Si el cociente es:
-* < 1.5          la marea es mixta, predominantemente diurna
-* de 1.5 a 3.0   mixta
-* > 3.0          semidiurna 
+* < 1.5      ;    la marea es mixta, predominantemente diurna
+* de 1.5 a 3.0  ; mixta
+*  >  3.0  ; semidiurna 
 
 En el Golfo de México predomina la marea diurna, en el Caribe la semidiurna y el Pacífico la mixta predominantemente semidiurna. Sin embargo, hay zonas que se salen del patrón como por ejemplo, Campeche en el Golfo de México, y Santa Rosalía en el Golfo de California.
 
