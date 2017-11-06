@@ -45,23 +45,19 @@ Ejemplo de un espectro de Fourier en donde se observa que la frecuencia M2 es la
 #### Semidiurnas
 
 * **M2** :  Lunar semidiurna 12.42 hrs
-* **S2** :   Solar semidiurna 12 hrs 
+* **S2** :  Solar semidiurna 12 hrs 
 * **N2** :  Lunar elíptica semidiurna 12.65
 
 #### Diurnas
 
-* **K1** Soli-lunar diurna 23.93
-* **O1** Lunar 25.82
-* **P1** Solar 24.07
+* **K1** :  Soli-lunar diurna 23.93
+* **O1** :  Lunar 25.82
+* **P1** :  Solar 24.07
 
 (ver tabla completa en : https://en.wikipedia.org/wiki/Theory_of_tides)
 
 
-
-
-
-
-
+![alt text](https://drive.google.com/open?id=0Bz83lNp4frr1U1BXLWR0d3V1Zms)
 
 En la gráfica se observan dos períodos de mareas vivas y dos de mareas muertas para los últimos 30 días en Acapulco.
 
