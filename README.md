@@ -51,9 +51,9 @@ Ejemplo de un espectro de Fourier en donde se observa que la frecuencia M2 es la
 
 **Existen decenas de componentes de marea pero las principales son:**
 
-* #### Semidiurnas
+#### Semidiurnas
 
- ** **M2** :  Lunar semidiurna 12.42 hrs
+* **M2** :  Lunar semidiurna 12.42 hrs
 * **S2** :  Solar semidiurna 12 hrs 
 * **N2** :  Lunar elíptica semidiurna 12.65
 
